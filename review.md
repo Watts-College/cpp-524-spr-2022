@@ -69,7 +69,7 @@ Feel free to schedule virtual office hours as well.
 
 
 
-## Week 0 - Wed Jan 13th
+## Week 0 - Wed Jan 12th
 
 Introduction to the Course 
 
@@ -89,7 +89,7 @@ Introduction to the Course
 <br>
 
 
-## Week 1 - Mon Jan 18th
+## Week 1 - Mon Jan 17th
   
 <p align="center">
   <a href="{{ page.session.week1 }}">
@@ -108,7 +108,7 @@ Introduction to the Course
 <br>
 <br>
 
-## Week 2 - Mon Jan 25th
+## Week 2 - Mon Jan 24th
   
 <p align="center">
   <a href="{{ page.session.week2 }}">
@@ -127,7 +127,7 @@ Introduction to the Course
 <br>
 <br>
 
-## Week 3 - Mon Feb 1st
+## Week 3 - Mon Jan 31st
   
 <p align="center">
   <a href="{{ page.session.week3 }}">
@@ -148,7 +148,7 @@ Introduction to the Course
 
 
 
-## Week 5 - Mon Feb 15th
+## Week 5 - Mon Feb 14th
   
 <p align="center">
   <a href="{{ page.session.week5 }}">
@@ -167,7 +167,7 @@ Introduction to the Course
 <br>
 <br>
 
-## Week 6 - Mon Feb 22
+## Week 6 - Mon Feb 21st
   
 <p align="center">
   <a href="{{ page.session.week6 }}">
@@ -188,7 +188,7 @@ Introduction to the Course
 
 
 
-## Week 7 - Fri Feb 26th
+## Week 7 - Fri Feb 25th
   
 There were no questions for the review session on Friday, so no video. 
 
