@@ -37,6 +37,136 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 
 
+<!--- 
+######################################################
+####
+####      Semester Overview
+####
+######################################################
+-->
+
+** Semester Overview
+
+
+
+
+
+*** { @unit = "", @title = "Semester Overview", @reading, @foldout  }
+
+
+
+# Semester Overview 
+
+
+In the intro evaluation course you learned the basics of creating program input-output functions using regression models: for an additional input of X into the program (dollars of funding, time spent tutoring kids, reduction of class size) we expect to see a b1*X change in Y - the expected **program effect**. 
+
+You also learned that this estimate will only be causal if the program intervention is completely exogenous, or uncorrelated with all other competing explanations for the observed change in the data. This will only be true if the data is generated in an experimental setting so the treatment levels can be randomly assigned to program participants. That is the only way to ensure the policy or program variable (level of treatment received, for example the amount of caffeine in the pill) is uncorrelated with all other variables in the model. 
+
+Outside of an experimental setting each participant will choose their own behaviors, so caffeine consumption will be correlated with lifestyle, sleep deprivation, and income status - all things that can also influence the outcome. As a result, the slope b1 in the model will always contain bias from the omitted variables. 
+
+```
+Heart Rate = b0 + b1*Caffeine + e
+```
+
+The sad reality of regression analysis using cross-section observational data is that you can *almost NEVER* add enough control variables to reliably eliminate omitted variable bias. At the same time, it is often impossible, unethical, or impractical to use randomized control trials to study program impacts. Many impact studies are requested after the policy or program has been implemented and thus rely on observational data, or else they are forced to use administrative data because experimental manipulation is unfeasible. 
+
+As a result, to produce **causal estimates** of program impact using observational or administrative data you will need to build a quasi-experimental toolkit that allows you to manipulate your data to create reasonable counterfactual comparisons that approximate causal estimates. 
+
+
+This course teaches the skills needed to design an impact evaluation using a counterfactual framework, select the most appropriate quasi-experimental estimator, and conduct the necessary checks to ensure that enough model assumptions have been met and sufficient competing hypotheses have been eliminated to comfortably claim you have identified an unbiased estimate of program impact. 
+
+No single study is ever definitive and no model produces a flawless estimate of policy or program impact. But that does not mean that program impact is not knowable or all estimates are equally as good. One of the goals of this course is for you to develop an intuitive sense of the **quality** of evidence presented in a study so that you can become a more astute consumer and producer of evaluations. 
+
+Randomized Control Trials (RCTs) are the gold standard in evaluation because they tend to produce the most accurate (least biased) estimates of program impact. But it actually takes a lot less skill and creativity to design an RCT than it does to design a rigorous quasi-experimental study. The tools taught in this course and in CPP 525 Advanced Regression are the things that will differentiate a talented and employable evaluation specialist that is sought out when the programs are high-stakes and stakeholders want actionable information versus a general evaluation specialist that is hired to produce compliance reports that will usually go into a file cabinet and not lead to program improvements or funding re-allocations. 
+
+[Overview of Causality in Regression Studies](../prog-eval/)
+
+
+<br>
+
+## Course Cadence 
+
+You have weekly labs, a final project that requires you to design (but not implement) a hypothetical evaluation of a program or policy of your choice), and a low-stakes (10 point) final exam that gives you an opportunity to review and synthesize all of the course content so you can consolidate the information in your brain. 
+
+Each week labs are due Wednesday and a step for your research design project on Saturday. If you keep up with the research design steps and incorporate feedback you can minimize the end-of-semester bottleneck. 
+
+![](../assets/img/course-cadence.png)
+
+<br>
+
+
+Get started early on labs so you have time to ask questions on the discussion board if you get stuck. 
+
+Labs are graded pass-fail. The criteria is that you demonstrate an understanding of the topics covered, which is typically operationalized as getting over half of the questions on the assignment correct. 
+
+The project steps are not graded until the final design proposal is submitted at the end, but you will recieve feedback on how much work needs to be done to improve each step to earn an A on the project.  
+
+The final exam is an open-book two-hour exam taken via Canvas. You can start it at any time during the final week of class, but once you start it you can't pause it and finish it later. 
+
+
+
+<br>
+
+## Tips for Success
+
+**Similar to other core courses in this program there is no way to learn and retain all of this material in a semester.** 
+
+We repeat some concepts from CPP 523 and introduce other concepts you will revisit in CPP 525 so that material is reinforced. Labs are an opportunity to test yourself and expand your vocabulary and regression skills. **Active engagement** on discussion boards and in review sessions is a great way to consolidate information in your brain. The biggest barrier to learning is often your own ego or lack of curiosity.  
+
+You are investing in a skill-set that you will build over time. You will find some material organized for quick reference on the [Resources](../resources/) page. 
+
+You are encouraged to build your own library of sources you find useful and keep them for future reference. 
+
+
+
+<br>
+
+## Getting Help
+
+Learning how to seek help and use discussion boards will accelerate learning and facilitate collaboration. Social coding tools like GitHub use these features extensively. 
+
+We are going to throw a lot at you, but also provide a lot of support. Over these first couple of weeks feel free to reach out for anything you might need. 
+
+If you find something confusing let us know (likely others will find it confusing as well). 
+
+* You can post a question to the homework [discussion board](../help/).  
+* You can schedule a Zoom call to do a screen share if you want to walk through anything. 
+* Or you can request a walk-through of a problem. The instructor will provide an example with the solution. 
+
+As a general rule of thumb, if you are stuck on the math or code for a problem, need clarification about what the question is asking, want to make sure you understand a formula, or are having similar issues then the help discussion page is the easiest and quickest way to get help. 
+
+If you are confused about concepts or having a hard time even formulating your question then virtual office hours are your best option.
+
+Note that the discussion board is hosted by the GitHub issues feature. It is a great forum because:
+
+* You can format code and math using standard markdown syntax. 
+* You can cut and paste images directly into the message. 
+* You can direction responses using @username mentions. 
+
+Please preview your responses before posting to ensure proper formatting. Note that you format code by placing fences around the code:
+
+````
+```
+# your code here
+lm( y ~ x1 + x2 )
+
+# formulas
+y = b0 + b1•X1 + b2•X2 + e
+b1 = cov(x,y) / var(x)
+```
+````
+
+The fences are three back-ticks. These look like quotation marks, but are actually the character at the top left of your keyboard. 
+
+
+
+<br>
+<hr>
+<br>
+
+
+
+
 
 
 
