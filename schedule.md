@@ -990,7 +990,7 @@ By the time you are done writing up details you will likely have 10 to 20 pages 
 
 *** { @unit = "FEB 26 - MARCH 1", @title = "Final Exam Open", @assignment, @foldout }
 
-The final exam will be open from Saturday Feb 27th to Tuesday March 2nd. 
+The final exam will be open from Saturday Feb 26th to Tuesday March 1st. 
 
 You will have 2 hours to complete the exam once you start, but you cannot start, pause, and come back to it. 
 
