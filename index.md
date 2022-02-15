@@ -14,27 +14,27 @@ info:
  course_number: CPP 524 
  course_level: Graduate 
  course_website: 'https://canvas.asu.edu/courses/114823'
- course_start_end_dates: October 13 to December 3, 2021  
+ course_start_end_dates: March 14 to April 29, 2022  
  course_prerequisites: CPP 523 or similar regression course
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/j/87540573400'
- review_sessions_when: Monday 12pm AZ 
+ review_sessions_when: Tuesday 12pm AZ 
  review_sessions_where: 'https://asu.zoom.us/j/87540573400'
  discussion_board_url: 'https://watts-college.github.io/cpp-524-fall-2021/help/'
 
 instructor:
--  name: Jesse Lecy
+-  name: Sarah Bassett
    title: Professor
-   email: jdlecy@asu.edu   
+   email: sarahbassett@asu.edu   
    office_location: 'https://asu.zoom.us/j/87540573400'
-   website_url: 'http://www.lecy.info/'
-   github_url: 'https://github.com/lecy' 
+   website_url: 
+   github_url: 
    twitter_url: 
-   scholar_url: 'https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en'
+   scholar_url: 
    linked_in_url:
    office_hours_time: Flexible
    office_hours_location:  'https://asu.zoom.us/j/87540573400'
-   office_hours_app_url: 'https://calendly.com/lecy/30min'
+   office_hours_app_url: 'https://calendly.com/sarahbassettasu/office-hours'
 
    
 
