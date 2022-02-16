@@ -20,7 +20,7 @@ info:
  class_meets_where:  'https://asu.zoom.us/j/87540573400'
  review_sessions_when: Tuesday 12pm AZ 
  review_sessions_where: 'https://asu.zoom.us/j/87540573400'
- discussion_board_url: 'https://watts-college.github.io/cpp-524-fall-2021/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-524-spr-2022/help/'
 
 instructor:
 -  name: Sarah Bassett
