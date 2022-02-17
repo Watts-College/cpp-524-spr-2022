@@ -17,23 +17,23 @@ info:
  course_start_end_dates: March 14 to April 29, 2022  
  course_prerequisites: CPP 523 or similar regression course
  class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/j/87540573400'
- review_sessions_when: Tuesday 12pm AZ 
- review_sessions_where: 'https://asu.zoom.us/j/87540573400'
+ class_meets_where:  
+ review_sessions_when: Asynchronous  
+ review_sessions_where: 'https://watts-college.github.io/cpp-524-spr-2022/review/'
  discussion_board_url: 'https://watts-college.github.io/cpp-524-spr-2022/help/'
 
 instructor:
 -  name: Sarah Bassett
    title: Professor
    email: sarahbassett@asu.edu   
-   office_location: 'https://asu.zoom.us/j/87540573400'
+   office_location: 'https://asu.zoom.us/j/3450942553'
    website_url: 
    github_url: 
    twitter_url: 
    scholar_url: 
    linked_in_url:
    office_hours_time: Flexible
-   office_hours_location:  'https://asu.zoom.us/j/87540573400'
+   office_hours_location:  'https://asu.zoom.us/j/3450942553'
    office_hours_app_url: 'https://calendly.com/sarahbassettasu/office-hours'
 
    
