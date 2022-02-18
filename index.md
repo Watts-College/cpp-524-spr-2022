@@ -27,7 +27,7 @@ instructor:
    title: Professor
    email: sarahbassett@asu.edu   
    office_location: 'https://asu.zoom.us/j/3450942553'
-   website_url: 
+   website_url: 'https://isearch.asu.edu/profile/4005882'
    github_url: 
    twitter_url: 
    scholar_url: 
