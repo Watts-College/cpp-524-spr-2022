@@ -12,30 +12,24 @@ session:
 - week2:
   date:  'Mon March 21st'  
   video: 'https://youtu.be/yqbxhY_eIXk'
-  password: ''
   sample-code: '' 
 - week3:
   date:  'Mon March 28th'  
   video: ''
-  password: ''
 - week4:
   date:  'Mon April 4th'  
   video: ''
-  password: ''
   sample-code: 'https://www.youtube.com/watch?v=zk6gOeggViw' 
   session-code: '' 
 - week5:
   date:  'Mon April 11th'  
   video: ''
-  password: ''
 - week6:
   date:  'Mon April 18th'  
   video: ''
-  password: ''  
 - week7:
   date:  'Mon April 25th'  
-  video: ''
-  password: ''   
+  video: ''   
 ---
 
 
