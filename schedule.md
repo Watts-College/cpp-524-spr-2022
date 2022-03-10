@@ -91,7 +91,7 @@ Randomized Control Trials (RCTs) are the gold standard in evaluation because the
 
 You have weekly labs, a final project that requires you to design (but not implement) a hypothetical evaluation of a program or policy of your choice), and a low-stakes (10 point) final exam that gives you an opportunity to review and synthesize all of the course content so you can consolidate the information in your brain. 
 
-Each week labs are due Wednesday and a step for your research design project on Saturday. If you keep up with the research design steps and incorporate feedback you can minimize the end-of-semester bottleneck. 
+Each week labs are due Thursday and a step for your research design project on Sunday. If you keep up with the research design steps and incorporate feedback you can minimize the end-of-semester bottleneck. 
 
 ![](../assets/img/course-cadence2.png)
 
