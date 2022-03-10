@@ -26,7 +26,7 @@ instructor:
 -  name: Sarah Bassett
    title: Professor
    email: sarahbassett@asu.edu   
-   office_location: 'https://calendly.com/sarahbassettasu/office-hours'
+   office_location: UCENT 520S
    website_url: 'https://isearch.asu.edu/profile/4005882'
    github_url: 
    twitter_url: 
