@@ -9,34 +9,34 @@ session:
 - week1:
   date:  'Mon, March 14th'  
   video: 'https://asu.zoom.us/rec/share/4IwhgIgIiIt_52FfzwhyzELj3ZqEiUAsyr7y2Kqw4iPsX8dexaVFx-7DA6nfGL30.ICDRozhbAOF3q4VK'
-  password: '9!hdS$Gr'
+  password: ''
 - week2:
   date:  'Mon March 21st'  
   video: 'https://youtu.be/yqbxhY_eIXk'
   password: ''
-  sample-code: 'https://www.dropbox.com/s/lm2g0jlzlo14zu9/tests-for-group-equivalence.pdf?dl=0' 
+  sample-code: '' 
 - week3:
   date:  'Mon March 28th'  
-  video: 'https://asu.zoom.us/rec/share/p8TiEF_bebh0gotPrP5tviUV4aNgD9ac_ddVVSADN2CK0FYUjQxt1U6fsY0GcyrX.CbAFd590xYA3WQuc'
-  password: 'kkp$6uW8'
+  video: ''
+  password: ''
 - week4:
   date:  'Mon April 4th'  
-  video: 'https://asu.zoom.us/rec/share/OD8ucsDv_oyFo3tNGKSG_7Z7sjPMapiiLlDxd3hkjizSCXkYSkNnj3rjM-TGHXts.3le89V_Edu36ZCoK'
-  password: 'FgkL3?q3'
+  video: ''
+  password: ''
   sample-code: 'https://www.youtube.com/watch?v=zk6gOeggViw' 
   session-code: '' 
 - week5:
   date:  'Mon April 11th'  
-  video: 'https://asu.zoom.us/rec/share/WSEvuaT68K_bF_3b95cDrVgBAlpwObrVYslh0wFg_qhdOp4sc3V27A5XXYqiturU.Su_NQSrwhhMOStIX'
-  password: '&Lx#pD1k'
+  video: ''
+  password: ''
 - week6:
   date:  'Mon April 18th'  
-  video: 'https://asu.zoom.us/rec/share/fQvQK3fUpisD_IjS8wX6fuBbTcWXoHKkGfu9bd8DTv8FOeOdaQzShpJcMC0B1zfx.etjYz3Yim9794vke'
-  password: 'PGs8W.xX'  
+  video: ''
+  password: ''  
 - week7:
   date:  'Mon April 25th'  
-  video: 'https://asu.zoom.us/rec/share/4XalKt9hEVk6unrx4nSfgD8i3hZD6ic6V9fRpl7U_xrFVWhJ1bTgW2tD0CgbIM1S.p7FiXPou9gTQR6bD'
-  password: 'NE=tbM6n'   
+  video: ''
+  password: ''   
 ---
 
 
