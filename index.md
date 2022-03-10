@@ -33,7 +33,7 @@ instructor:
    scholar_url: 
    linked_in_url:
    office_hours_time: Flexible
-   office_hours_location:  'https://asu.zoom.us/j/3450942553'
+   office_hours_location:  
    office_hours_app_url: 'https://calendly.com/sarahbassettasu/office-hours'
 
    
