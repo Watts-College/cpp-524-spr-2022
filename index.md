@@ -14,7 +14,7 @@ info:
  course_number: CPP 524 
  course_level: Graduate 
  course_website: 'https://canvas.asu.edu/courses/114823'
- course_start_end_dates: March 14 to April 29, 2022  
+ course_start_end_dates: March 14 to May 1, 2022  
  course_prerequisites: CPP 523 or similar regression course
  class_meets_when:  Asynchronous  
  class_meets_where:  
@@ -26,7 +26,7 @@ instructor:
 -  name: Sarah Bassett
    title: Professor
    email: sarahbassett@asu.edu   
-   office_location: 'https://asu.zoom.us/j/3450942553'
+   office_location: 'https://calendly.com/sarahbassettasu/office-hours'
    website_url: 'https://isearch.asu.edu/profile/4005882'
    github_url: 
    twitter_url: 
