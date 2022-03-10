@@ -8,7 +8,7 @@ root-url: 'https://raw.githubusercontent.com/Watts-College/cpp-524-fall-2021/mas
 session: 
 - week1:
   date:  'Mon, March 14th'  
-  video: 'https://mediaplus.asu.edu/embedded?id=fdcd0741-c017-4949-a8b3-cf90fd01dcfc&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
+  video: 'https://mediaplus.asu.edu/embedded?id=4223beec-c9ec-4d9d-8306-e5befaa138ab&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
 - week2:
   date:  'Mon March 21st'  
   video: 'https://youtu.be/yqbxhY_eIXk'
