@@ -12,14 +12,12 @@ session:
 - week2:
   date:  'Mon March 21st'  
   video: 'https://youtu.be/yqbxhY_eIXk'
-  sample-code: '' 
 - week3:
   date:  'Mon March 28th'  
   video: 'https://mediaplus.asu.edu/embedded?id=7b159523-cec8-49e8-82d7-a0e8d79462fe&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
 - week4:
   date:  'Mon April 4th'  
   video: 'https://mediaplus.asu.edu/embedded?id=bd4c109e-f7b1-4e67-97af-8ffcc6806039&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
-  sample-code: 'https://www.youtube.com/watch?v=zk6gOeggViw' 
 - week5:
   date:  'Mon April 11th'  
   video: 'https://mediaplus.asu.edu/embedded?id=cd153f4c-585d-44af-963f-c1fe852c94da&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
