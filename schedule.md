@@ -93,7 +93,7 @@ You have weekly labs, a final project that requires you to design (but not imple
 
 Each week labs are due Wednesday and a step for your research design project on Saturday. If you keep up with the research design steps and incorporate feedback you can minimize the end-of-semester bottleneck. 
 
-![](../assets/img/course-cadence.png)
+![](../assets/img/course-cadence2.png)
 
 <br>
 
