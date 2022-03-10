@@ -15,21 +15,20 @@ session:
   sample-code: '' 
 - week3:
   date:  'Mon March 28th'  
-  video: ''
+  video: 'https://mediaplus.asu.edu/embedded?id=7b159523-cec8-49e8-82d7-a0e8d79462fe&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
 - week4:
   date:  'Mon April 4th'  
-  video: ''
+  video: 'https://mediaplus.asu.edu/embedded?id=bd4c109e-f7b1-4e67-97af-8ffcc6806039&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
   sample-code: 'https://www.youtube.com/watch?v=zk6gOeggViw' 
-  session-code: '' 
 - week5:
   date:  'Mon April 11th'  
-  video: ''
+  video: 'https://mediaplus.asu.edu/embedded?id=cd153f4c-585d-44af-963f-c1fe852c94da&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
 - week6:
   date:  'Mon April 18th'  
-  video: ''
+  video: 'https://mediaplus.asu.edu/embedded?id=4f271b4d-6536-4ac0-a431-817a515a47be&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
 - week7:
   date:  'Mon April 25th'  
-  video: ''   
+  video: 'https://mediaplus.asu.edu/embedded?id=5cc716aa-71d6-4619-b05c-49922fa57032&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='   
 ---
 
 
