@@ -9,7 +9,6 @@ session:
 - week1:
   date:  'Mon, March 14th'  
   video: 'https://mediaplus.asu.edu/embedded?id=fdcd0741-c017-4949-a8b3-cf90fd01dcfc&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
-  password: 
 - week2:
   date:  'Mon March 21st'  
   video: 'https://youtu.be/yqbxhY_eIXk'
@@ -51,11 +50,6 @@ Review session utilize lectures from Jesse Lecy, academic director for the Progr
 * Work through solutions to labs from previous week 
 * Introduce new topics 
 * Answer questions on the the current week's lab 
-
-
-
-
-
 
 
 
