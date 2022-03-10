@@ -8,8 +8,8 @@ root-url: 'https://raw.githubusercontent.com/Watts-College/cpp-524-fall-2021/mas
 session: 
 - week1:
   date:  'Mon, March 14th'  
-  video: '<iframe src="https://mediaplus.asu.edu/lti/embedded?id=b80e8e35-fb3f-411e-a0d8-d1538db3d96c&siteId=61e0606e-415d-4001-8206-ffde48430c64" width="640" height="360" frameholder="0" allow="autoplay"></iframe>'
-  password: ''
+  video: 'https://mediaplus.asu.edu/embedded?id=fdcd0741-c017-4949-a8b3-cf90fd01dcfc&siteId=61e0606e-415d-4001-8206-ffde48430c64&isPrivate='
+  password: 
 - week2:
   date:  'Mon March 21st'  
   video: 'https://youtu.be/yqbxhY_eIXk'
@@ -62,7 +62,7 @@ Review session utilize lectures from Jesse Lecy, academic director for the Progr
 
 
 
-<br>
+
 
 
 
@@ -71,9 +71,7 @@ Review session utilize lectures from Jesse Lecy, academic director for the Progr
 
 
 
-<br> 
-<hr>
-<br>
+
 
 
 To make the best use of sessions, start labs ahead of time to better absorb course content. 
