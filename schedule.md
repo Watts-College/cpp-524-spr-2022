@@ -3,29 +3,29 @@ layout: default
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/99226/assignments'
+  assignment_url: 'https://canvas.asu.edu/courses/114823/assignments'
 
 labs:
-  lab-01:  'Wednesday, Oct 20th' 
-  lab-02:  'Wednesday, Oct 27th'
-  lab-03:  'Wednesday, Nov 3rd'
-  lab-04:  'Wednesday, Nov 10th'
-  lab-05:  'Wednesday, Nov 17th'
-  lab-06:  'Friday, Dec 3rd'
+  lab-01:  'Thursday, March 17th' 
+  lab-02:  'Thursday, March 24th'
+  lab-03:  'Thursday, March 31st'
+  lab-04:  'Thursday, April 7th'
+  lab-05:  'Thursday, April 14th'
+  lab-06:  'Thursday, April 21st'
   
 project:
-  step-01:  'Saturday, Oct 23rd'
-  step-02:  'Saturday, Oct 30th'
-  step-03:  'Saturday, Nov 6th'
-  step-04:  'Saturday, Nov 13th'
+  step-01:  'Sunday, March 20th'
+  step-02:  'Sunday, March 24th'
+  step-03:  'Sunday, March 31st'
+  step-04:  'Sunday, April 7th'
 
 final: 
-  project:    'Sat Nov 27'  
-  exam-date:  'Mon Nov 29  - Fri Dec 3'  
+  project:    'Sunday, April 24th'  
+  exam-date:  'Mon April 25th  - Fri April 29th'  
 
 pdf-root-url: "https://github.com/Watts-College/cpp-524-fall-2021/raw/main/" 
 
-yellowdig: "https://canvas.asu.edu/courses/86712/assignments/2210979"
+yellowdig: "https://canvas.asu.edu/courses/114823/assignments/3010777"
 
 ---
 
