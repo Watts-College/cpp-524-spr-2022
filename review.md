@@ -39,7 +39,7 @@ session:
 
 # Review Sessions 
 
-Review session utilize lectures from Jesse Lecy, academic director for the Program Evaluation and Data Analytics degree at ASU. Review these lectures each week to: 
+Review sessions utilize lectures from Jesse Lecy, academic director for the Program Evaluation and Data Analytics degree at ASU. Review these lectures each week to: 
 
 * Work through solutions to labs from previous week 
 * Introduce new topics 
