@@ -53,9 +53,8 @@ Review session utilize lectures from Jesse Lecy, academic director for the Progr
 * Answer questions on the the current week's lab 
 
 
-<br> 
-<hr>
-<br>
+
+
 
 
 
