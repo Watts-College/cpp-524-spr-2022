@@ -128,13 +128,12 @@ You are encouraged to build your own library of sources you find useful and keep
 
 Learning how to seek help and use discussion boards will accelerate learning and facilitate collaboration. Social coding tools like GitHub use these features extensively. 
 
-We are going to throw a lot at you, but also provide a lot of support. Over these first couple of weeks feel free to reach out for anything you might need. 
+We are going to throw a lot at you. Over these first couple of weeks feel free to reach out for anything you might need. 
 
 If you find something confusing let us know (likely others will find it confusing as well). 
 
 * You can post a question to the homework [discussion board](../help/).  
-* You can schedule a Zoom call to do a screen share if you want to walk through anything. 
-* Or you can request a walk-through of a problem. The instructor will provide an example with the solution. 
+* You can schedule a Zoom call to discuss concerns. Make sure to include your problems when booking so instructors can pre-plan how best to address the issue.
 
 As a general rule of thumb, if you are stuck on the math or code for a problem, need clarification about what the question is asking, want to make sure you understand a formula, or are having similar issues then the help discussion page is the easiest and quickest way to get help. 
 
@@ -293,7 +292,7 @@ For the first step of your project you will fill out a one-page form to describe
 
 This first step is designed to get feedback from the instructor in order to ensure you have picked an appropriate topic for the assignment.  
 
-See page 4 of the project instructions PDF for an example of Step 01 memo format:
+See page 10 of the project instructions PDF for an example of Step 01 memo format:
 
 
 <br>
