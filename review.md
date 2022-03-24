@@ -8,25 +8,25 @@ root-url: 'https://raw.githubusercontent.com/Watts-College/cpp-524-spr-2022/mast
 session: 
 - week1:
   date:  'Mon, March 14th'  
-  video: 'https://mediaplus.asu.edu/lti/embedded?id=b80e8e35-fb3f-411e-a0d8-d1538db3d96c&siteId=61e0606e-415d-4001-8206-ffde48430c64'
+  video: 'https://youtu.be/16sKD51vFzM'
 - week2:
   date:  'Mon March 21st'  
   video: 'https://youtu.be/yqbxhY_eIXk'
 - week3:
   date:  'Mon March 28th'  
-  video: 'https://mediaplus.asu.edu/lti/embedded?id=8848a739-32bf-4aa7-be03-382e1ba99213&siteId=61e0606e-415d-4001-8206-ffde48430c64'
+  video: 'https://youtu.be/YgStDaq7K2g'
 - week4:
   date:  'Mon April 4th'  
-  video: 'https://mediaplus.asu.edu/lti/embedded?id=c317d426-24ef-4b5e-ba86-ffbe18e4f9e0&siteId=61e0606e-415d-4001-8206-ffde48430c64'
+  video: 'https://youtu.be/_MaRqiyIm68'
 - week5:
   date:  'Mon April 11th'  
-  video: 'https://mediaplus.asu.edu/lti/embedded?id=4870349b-4ce9-4f37-a00e-76fbabdc6b8a&siteId=61e0606e-415d-4001-8206-ffde48430c64'
+  video: 'https://youtu.be/qeCMCwtakec'
 - week6:
   date:  'Mon April 18th'  
-  video: 'https://mediaplus.asu.edu/lti/embedded?id=cc47ecff-79d6-43ce-a645-4422b8515ef9&siteId=61e0606e-415d-4001-8206-ffde48430c64'
+  video: 'https://youtu.be/o6UM21w4NVo'
 - week7:
   date:  'Mon April 25th'  
-  video: 'https://mediaplus.asu.edu/lti/embedded?id=a567734e-e12d-4af2-9d44-bda6e793b145&siteId=61e0606e-415d-4001-8206-ffde48430c64'   
+  video: 'https://youtu.be/F0fl1Ent3sA'   
 ---
 
 
