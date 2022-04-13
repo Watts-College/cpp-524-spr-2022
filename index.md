@@ -28,7 +28,7 @@ instructor:
    email: sarahbassett@asu.edu   
    office_location: UCENT 520S
    website_url: 'https://isearch.asu.edu/profile/4005882'
-   github_url: 
+   faculty associate: Ujitha Senanayake
    twitter_url: 
    scholar_url: 
    linked_in_url:
